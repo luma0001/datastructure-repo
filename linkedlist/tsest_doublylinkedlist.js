@@ -1,4 +1,4 @@
-import DoublyLinkedList from "./linkedlist/doublylinkedlist";
+import DoublyLinkedList from "./doublylinkedlist";
 
 const node1 = {
   prev: null,
